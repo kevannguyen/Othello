@@ -1,4 +1,4 @@
-#Othello
+# Othello
 Othello/Reversi game GUI created with Python and Tkinter module.
 
 Supports various game settings and preferences, including:
@@ -12,7 +12,7 @@ Supports various game settings and preferences, including:
 - First player move
  - Black or white cell
  
-##Screenshots
+## Screenshots
 **Default game screen**
 
 ![Default game screen](http://i.imgur.com/qRug7Fv.png "Default game screen")
